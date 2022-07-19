@@ -1,0 +1,1 @@
+# Votar - Voting app built with Golang
